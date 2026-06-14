@@ -1,0 +1,46 @@
+subject,question,A,B,C,D,correct
+Parallel and Distributed Computing,What does the term parallel computing refer to in computer science?,Sequential processing,Executing multiple tasks simultaneously,Slow computation,Using a single CPU only,B
+Parallel and Distributed Computing,Which of the following is a recognized type of parallelism?,Data parallelism,Serial processing,Disk processing,No parallelism,A
+Parallel and Distributed Computing,What best describes a distributed system?,A collection of independent computers working together,A single personal computer,A system with only a server,A system with only a client,A
+Parallel and Distributed Computing,Which medium is commonly used for communication in distributed systems?,Computer network,Printer,Mouse,Scanner,A
+Parallel and Distributed Computing,What does MPI stand for in parallel computing?,Message Passing Interface,Image Processing Interface,Memory Program Index,Machine Performance Indicator,A
+Parallel and Distributed Computing,What is a major advantage of parallel computing?,Slower execution,Faster processing speed,Manual operation,Lower accuracy,B
+Parallel and Distributed Computing,Which programming model is commonly used for shared memory systems?,OpenMP,MPI,FTP,SMTP,A
+Parallel and Distributed Computing,Which of the following represents a type of parallel computer architecture?,SIMD,SDIM,SIDS,None of the above,A
+Parallel and Distributed Computing,What is the primary goal of load balancing in parallel systems?,To distribute work equally among processors,To add more workload,To remove CPUs,To disconnect the network,A
+Parallel and Distributed Computing,In computing what is meant by a cluster?,A group of interconnected computers,A single laptop,A printer device,A collection of files,A
+Parallel and Distributed Computing,What does the term speedup measure in parallel computing?,Slowness of execution,Performance gain compared to sequential execution,Memory size,RAM capacity,B
+Parallel and Distributed Computing,Which issue commonly occurs due to improper synchronization in parallel programs?,Race condition,Formatting error,Pixel error,Printing issue,A
+Parallel and Distributed Computing,Which of the following is NOT a parallel programming model?,MPI,OpenMP,CUDA,HTML,D
+Parallel and Distributed Computing,What does the term deadlock describe in concurrent systems?,Successful execution,A situation where processes wait indefinitely,Faster execution,Improved speedup,B
+Parallel and Distributed Computing,What does fault tolerance mean in a distributed system?,System failure,Ability to continue operating despite failures,No network connection,Single node operation,B
+Strategies of Emerging Technology I,What is meant by cloud computing?,Local computing only,Computing services delivered over the Internet,Offline processing,Physical hardware only,B
+Strategies of Emerging Technology I,What does SaaS stand for in cloud computing?,Software as a Service,Storage as a System,System as a Server,Software and Storage,A
+Strategies of Emerging Technology I,What does IaaS represent in cloud service models?,Internet as a Service,Infrastructure as a Service,Information as a Service,Interface as a Service,B
+Strategies of Emerging Technology I,What does PaaS stand for in cloud computing?,Platform as a Service,Process as a Service,Product as a Service,Power as a Service,A
+Strategies of Emerging Technology I,Which of the following is a type of cloud deployment model?,Private cloud,Local storage,Offline mode,Personal device,A
+Strategies of Emerging Technology I,Which of the following is a well-known cloud service provider?,Google Cloud,Paint application,Notes application,Calculator,A
+Strategies of Emerging Technology I,What is a key benefit of using cloud computing services?,Cost efficiency and scalability,No Internet access,Single device usage,Manual processing,B
+Strategies of Emerging Technology I,Which of the following is an example of a SaaS application?,Google Docs,CPU,Router,RAM,A
+Strategies of Emerging Technology I,Which technology is fundamental to cloud computing?,Virtualization,Manual configuration,Data typing,Paper documentation,A
+Strategies of Emerging Technology I,What characterizes a public cloud?,Owned by one organization,Shared among multiple users,Completely offline,Used only by government,B
+Strategies of Emerging Technology I,What does IoT stand for?,Internet of Things,Input Output Transfer,Internal Online Tools,Integrated Office Technology,A
+Strategies of Emerging Technology I,What does AI mean in modern computing?,Artificial Intelligence,Automated Internet,Advanced Input,Application Interface,A
+Strategies of Emerging Technology I,What does the term Big Data refer to?,Small datasets,Extremely large and complex datasets,Image files only,Text documents only,B
+Strategies of Emerging Technology I,What is blockchain technology mainly used for?,Secure and transparent transactions,Typing documents,Playing games,Editing images,A
+Strategies of Emerging Technology I,What is the primary goal of cybersecurity?,Protecting systems and data from attacks,Painting systems,Purchasing software,Installing hardware,A
+Advanced Artificial Intelligence,What is the main goal of a heuristic function in AI search?,To guarantee optimality always,To estimate the cost to reach the goal,To increase memory usage,To randomize the search,B
+Advanced Artificial Intelligence,In machine learning overfitting happens when...,Model performs well on new data,Model learns training data too well and fails on new data,Dataset is too small always,Training is too slow,B
+Advanced Artificial Intelligence,Which model is best known for handling sequences in deep learning?,CNN,RNN,KNN,PCA,B
+Advanced Artificial Intelligence,What does the term gradient descent do?,Increases loss,Minimizes loss by updating weights,Stops training immediately,Normalizes features,B
+Advanced Artificial Intelligence,In reinforcement learning what is a reward?,Input data,A signal that evaluates an action,A hidden layer,A type of dataset,B
+Advanced Artificial Intelligence,What is a Markov property in MDP?,Future depends on entire history,Future depends only on current state,Future is random always,States cannot repeat,B
+Advanced Artificial Intelligence,Which is a common activation function in neural networks?,ReLU,IF-ELSE,SQL,BFS,A
+Advanced Artificial Intelligence,What does NLP stand for?,Network Link Protocol,Natural Language Processing,Neural Learning Pattern,Normal Loss Prediction,B
+Advanced Artificial Intelligence,What is the main job of an optimizer in deep learning?,Draw graphs,Update model parameters to reduce loss,Increase dataset size,Convert images to text,B
+Advanced Artificial Intelligence,Which algorithm is used for classification?,KNN,Dijkstra,Floyd Warshall,Prim,A
+Advanced Artificial Intelligence,What is the purpose of a confusion matrix?,To confuse model,To evaluate classification performance,To train faster,To compress data,B
+Advanced Artificial Intelligence,What is transfer learning?,Training from scratch always,Reusing a pretrained model for a new task,Deleting old model,Encrypting model,B
+Advanced Artificial Intelligence,What does epoch mean in training?,One forward pass only,One full pass through training dataset,Testing phase,A loss function,B
+Advanced Artificial Intelligence,Which is a feature of CNNs?,Works only with text,Uses convolution filters to extract features,Cannot learn patterns,Needs no data,B
+Advanced Artificial Intelligence,What is the purpose of regularization?,Increase overfitting,Reduce overfitting,Remove labels,Break the model,C
